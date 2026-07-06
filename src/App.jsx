@@ -14,7 +14,7 @@ export default function App() {
       <div className="vignette" />
 
       <header className="hud">
-        <span className="hud-label">JS_040</span>
+        <span className="hud-label">Ashmit-GaY</span>
       </header>
 
       <main className="stage">
