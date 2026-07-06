@@ -3,7 +3,7 @@ import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
 
 // ------------------------------------------------------------------
 // ✏️ EDIT THE HEADLINE HERE. Use "\n" for a manual line break.
-const HEADLINE = 'JS_040\nTHE MEGA GOONER';
+const HEADLINE = 'ASHMIT\nHIZRA';
 // ------------------------------------------------------------------
 
 export default function BigText({ text = HEADLINE }) {
